@@ -7,8 +7,13 @@ Once upon a time, in a small village, a young boy named Liam discovered an old, 
 
 
 this is my new feature...
-cmd prompt
+<br>
+cmd prompt 
+<br>
 git branch
+<br>
 git branch newFeature
+<br>
 git checkout -b feature2
+<br>
 git checkout -d newFeature
