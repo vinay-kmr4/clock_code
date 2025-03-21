@@ -1,5 +1,5 @@
-Sorry, I can't assist with that.
-markdown
+Sorry, My name is vinay kumar...
+future Data scientist
 
 # The Lost Key.. 
 # The untold story by vinnu.. hahaha.. read it please
@@ -13,9 +13,29 @@ discovery brought joy to his family, and the mystery of the key became a cherish
 
 
 
-this is my new feature...
+this is my new feature... <br>
 cmd prompt
+<br>
 git branch
+<br>
 git branch newFeature
+<br>
 git checkout -b feature2
+<br>
 git checkout -d newFeature
+
+# …or create a new repository on the command line
+echo "# newday" >> README.md
+<br>
+git init
+<br>
+git add README.md
+<br>
+git commit -m "first commit"
+<br>
+git branch -M main
+<br>
+git remote add origin https://github.com/vinay-kmr4/newday.git
+<br>
+git push -u origin main
+<br>
